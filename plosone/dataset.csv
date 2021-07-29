@@ -1,4 +1,4 @@
-acc_x,acc_y,acc_z,class
+acc_x,acc_y,acc_z,label
 -0.8,0.2,0.2,feeding
 -0.9,0.1,0.2,feeding
 -0.9,0,0.3,feeding
